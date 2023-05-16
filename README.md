@@ -1,5 +1,5 @@
 # notdefteriuygulaması
-1. İlk olarak, kullanacağımız .NET framework kütüphanelerini belirtmek için `using` ifadelerini ekliyoruz
+1. İlk olarak, kullanacağımız .NET framework kütüphanelerini belirtmek için `using` ifadelerini ekliyoruz.
 
 2. `NotDefteriUygulamasi` isimli bir namespace oluşturuyoruz.
 

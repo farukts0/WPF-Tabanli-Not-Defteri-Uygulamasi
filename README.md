@@ -1,4 +1,22 @@
 # notdefteriuygulaması
+
+Yapacağım not defteri uygulaması basit bir arayüze sahip olacaktır. 
+
+Kullanıcılar akıllarında kalmayan şifreleri, kullanıcı isimleri, ileri tarihli planları, unutmaması gereken bilgilere anında ulaşmak için kullanacakları bir uygulama yapmayı düşünüyorum.
+
+Arayüzünde not ekleme, not silme, kaydetme, farklı kaydetme seçenekleri olucak.
+
+Not ekleme seçeneği kullanıcının yazmayı istediği bilgiyi gireceği sayfaya gitmesine yardımcı olucak.
+
+Not silme seçeneği kullanıcının silmeyi istediği bilgiyi silip anasayfaya göndericektir.
+
+Kaydetme seçeneği yazılan notun uygulamaya kaydedilmesini sağlayacak.
+
+Farklı kaydet seçeneği ise kullanıcının kaydetmek istedği notu dosya kaydetme iletişim kutusu görüntüleyerek kullanıcının kaydetmek istediği dosya adını ve konumunu seçmesini sağlayacaktır.
+
+
+Geliştirme Adımları
+
 1. İlk olarak, kullanacağımız .NET framework kütüphanelerini belirtmek için `using` ifadelerini ekliyoruz.
 
 2. `NotDefteriUygulamasi` isimli bir namespace oluşturuyoruz.
